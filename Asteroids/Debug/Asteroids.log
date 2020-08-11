@@ -1,0 +1,24 @@
+﻿  Animation.cpp
+C:\Users\Ayleah Hill\Documents\Program Projects\New CPP Asteroids\Asteroids\src\Animation.cpp(6,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Asteroid.cpp
+  Entity.cpp
+  Explosion.cpp
+  Game.cpp
+  HighScores.cpp
+  Laser.cpp
+  Program.cpp
+  Saucer.cpp
+  Ship.cpp
+C:\Users\Ayleah Hill\Documents\Program Projects\New CPP Asteroids\Asteroids\src\Ship.cpp(54,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+Debug\Animation.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Asteroid.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Entity.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Explosion.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Game.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\HighScores.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Laser.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Program.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Saucer.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Ship.obj : warning LNK4042: object specified more than once; extras ignored
+  Asteroids.vcxproj -> C:\Users\Ayleah Hill\Documents\Program Projects\New CPP Asteroids\Debug\Asteroids.exe
